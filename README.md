@@ -1,8 +1,28 @@
-- 💞️ Hi, I’m @FlaxSilk. My name is Irene. I am a Master of Science, magna cum laude.
-- 🌱 I’m interested in data science, database architecture, software QA (really) and, of course, everything connected with AI. And currently I am interested in a remote job. 
-- 📫 You can reach me reach me via irina.n.evdokimova@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am endlessly curious and cannot stop learning about everything in the World.
+👋 Hi! I'm Irene! I'm learning Python and SQL for QA automation and data testing.
+
+💻 Python & SQL learner | QA tester exploring automation and data analyticsI’m learning and interested in QA / automation
+
+🎓 Education
+  - M.Sc., Mathematical & Instrumental Methods in Economics, magna cum laude
+  - 2025 Scientific Computing with Python, freeCodeCamp, 300 hrs, with certification (in progress)
+  - 2022 Software testing, Portnov Computer School, CA, United States
+     
+🚀 Interested in remote roles in QA or data-related fields
+
+💪 Skills
+  - Python | SQL
+  - Proficient English (C2) | Native Russian
+
+📜 Certificates
+  - FreeCodeCamp Scientific Computing with Python (in progress)
+  - English: EF SET Certificate - C2 (Proficient), https://cert.efset.org/NNzZce
+  
+💡 Interests
+ - QA automation, data validation and software quality
+
+📫 Reach me at irina.n.evdokimova@gmail.com
+   
+⚡ Fun fact: I am endlessly curious and cannot stop learning about everything in the World.
 
 <!---
 FlaxSilk/FlaxSilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
