@@ -1,4 +1,4 @@
-👋 Hi! I'm Irene! I'm learning Python and SQL for QA automation and data testing.
+👋 Hi! I'm Irina! I'm learning Python and SQL for QA automation and data testing.
 
 💻 Python & SQL learner | QA tester exploring automation and data analyticsI’m learning and interested in QA / automation
 
