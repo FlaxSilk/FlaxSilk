@@ -19,9 +19,13 @@
   
 💡 Interests
  - QA automation, data validation and software quality
-
+ 
 📫 Reach me at irina.n.evdokimova@gmail.com
-   
+
+👤 Profiles
+ - FreeCodeCamp: https://www.freecodecamp.org/flaxsilk
+ - X (Professionsl): https://x.com/FlaxSilk
+ 
 ⚡ Fun fact: I am endlessly curious and cannot stop learning about everything in the World.
 
 <!---
