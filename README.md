@@ -25,6 +25,8 @@
   - Software Testing — Portnov Computer School (Sunnyvale, CA, USA), 2022   
   - English: EF SET Certificate - C2 (Proficient), September 2025 <br>
     - [View certificate](https://cert.efset.org/NNzZce)
+  - Intro to AI Agents and Agentic AI - 365 Data Science, November 2025:
+    - [View certificate](https://learn.365datascience.com/certificates/CC-F039D36412/)
   
 💡 Interests
  - QA automation, data validation and software quality
