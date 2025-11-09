@@ -27,6 +27,8 @@
     - [View certificate](https://cert.efset.org/NNzZce)
   - Intro to AI Agents and Agentic AI - 365 Data Science, November 2025:
     - [View certificate](https://learn.365datascience.com/certificates/CC-F039D36412/)
+  - Intro to ChatGPT and Generative AI - 365 Data Science, November 2025:
+    - [View certificate](https://learn.365datascience.com/certificates/CC-C211988036/)
   
 💡 Interests
  - QA automation, data validation and software quality
