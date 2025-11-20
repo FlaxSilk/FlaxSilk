@@ -25,6 +25,8 @@
   - Software Testing — Portnov Computer School (Sunnyvale, CA, United States), 2022   
   - English: EF SET Certificate - C2 (Proficient) - EF English First (Lucerne, Switzerland), September 2025 <br>
     - [View certificate](https://cert.efset.org/NNzZce)
+  - Deep Learning with TensorFlow 2 - 365 Data Science (Sofia, Bulgaria), November 2025:
+    - [View certificate](https://learn.365datascience.com/c/9d2b67cee1/)
   - Intro to AI Agents and Agentic AI - 365 Data Science (Sofia, Bulgaria), November 2025:
     - [View certificate](https://learn.365datascience.com/certificates/CC-F039D36412/)
   - Intro to ChatGPT and Generative AI - 365 Data Science (Sofia, Bulgaria), November 2025:
